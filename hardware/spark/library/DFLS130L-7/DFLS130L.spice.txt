@@ -1,0 +1,15 @@
+.MODEL DFLS130L D
++   is=10U
++   rs=58m
++   N=0.88
++   BV=30
++   IBV=0.36m
++   NBV=150
++   EG=0.62
++   ISR=30u
++   CJO=396.4p
++   VJ=0.31
++   M=0.48
++   TBV1=-0.007
++   TRS1=0.0045
+D NC--0 NC--1 DFLS130L

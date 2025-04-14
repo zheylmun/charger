@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GRMJN7R61C206ME05D")(type "KiCad")(uri "${KIPRJMOD}/library/GRMJN7/GRMJN7R61C206ME05D.kicad_sym")(options "")(descr ""))
+  (lib (name "CMZ5340B_TR13_PBFREE")(type "KiCad")(uri "${KIPRJMOD}/library/CMZ5340B/CMZ5340B_TR13_PBFREE.kicad_sym")(options "")(descr ""))
+)

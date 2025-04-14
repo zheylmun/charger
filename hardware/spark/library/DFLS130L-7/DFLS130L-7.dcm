@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DFLS130L-7
+D Diode 30 V 1A Surface Mount PowerDI 123 
+K
+F https://www.diodes.com//assets/Datasheets/DFLS130L.pdf
+$ENDCMP
+#
+#End Doc Library
