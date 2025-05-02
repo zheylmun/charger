@@ -1,4 +1,10 @@
 (fp_lib_table
   (version 7)
   (lib (name "DFLS130L-7")(type "KiCad")(uri "${KIPRJMOD}/library/DFLS130L-7.pretty")(options "")(descr ""))
+  (lib (name "STD28054T")(type "KiCad")(uri "${KIPRJMOD}/library/STD28054T.pretty")(options "")(descr ""))
+  (lib (name "GRMJN7")(type "KiCad")(uri "${KIPRJMOD}/library/GRMJN7.pretty")(options "")(descr ""))
+  (lib (name "STD2805T4")(type "KiCad")(uri "${KIPRJMOD}/library/STD2805T4.pretty")(options "")(descr ""))
+  (lib (name "SRR1260-151")(type "KiCad")(uri "${KIPRJMOD}/library/SRR1260-151.pretty")(options "")(descr ""))
+  (lib (name "PMBT2369")(type "KiCad")(uri "${KIPRJMOD}/library/PMBT2369.pretty")(options "")(descr ""))
+  (lib (name "MBR120VLSFT1G")(type "KiCad")(uri "${KIPRJMOD}/library/MBR120VLSFT1G.pretty")(options "")(descr ""))
 )

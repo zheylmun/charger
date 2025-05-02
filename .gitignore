@@ -4,3 +4,5 @@
 *.kicad_sch-bak
 
 *.bak
+
+hardware/spark/fp-info-cache
